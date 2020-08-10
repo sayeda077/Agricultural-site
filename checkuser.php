@@ -5,7 +5,7 @@
 </head>
 <body>
 	<table>
-		<form action="new.php" method="POST">
+		<form action="checkuserphp.php" method="POST">
 	
 	<tr>
 		<td>id:</td>
